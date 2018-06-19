@@ -27,7 +27,7 @@ namespace Test01
                 {
                     case 'B':
                     case 'b':
-                        newForeColor = ConsoleColor.DarkBlue;
+                        newForeColor = ConsoleColor.Cyan;
                         break;
                     case 'R':
                     case 'r':
